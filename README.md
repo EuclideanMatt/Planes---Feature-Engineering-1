@@ -35,3 +35,24 @@ planes.xlsx: Dataset containing flight information.
 ind_loc.csv: Dataset containing latitude and longitude information.
 
 indian_city_names.csv: Dataset containing city names.
+
+
+**Key Steps in the Notebook**
+
+Libraries and Database Connection:
+
+Imports necessary libraries.
+Connects to the SQL Server database and retrieves data from the flights table.
+Data Exploration:
+
+Displays basic information about the dataset, including data types and summary statistics.
+Feature Engineering:
+
+Creates new features from existing data.
+Transforms categorical features into numerical representations.
+Data Visualization:
+
+Uses matplotlib and seaborn to visualize the distributions and relationships of features.
+Data Export:
+
+Saves the cleaned and engineered dataset back to the SQL Server database.

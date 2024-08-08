@@ -43,9 +43,11 @@ Libraries and Database Connection:
 
 Imports necessary libraries.
 Connects to the SQL Server database and retrieves data from the flights table.
+
 Data Exploration:
 
 Displays basic information about the dataset, including data types and summary statistics.
+
 Feature Engineering:
 
 Creates new features from existing data.

@@ -50,11 +50,13 @@ Displays basic information about the dataset, including data types and summary s
 
 Feature Engineering:
 
-Creates new features from existing data.
-Transforms categorical features into numerical representations.
+* Creates new features from existing data.
+* Transforms categorical features into numerical representations.
+
 Data Visualization:
 
 Uses matplotlib and seaborn to visualize the distributions and relationships of features.
+
 Data Export:
 
 Saves the cleaned and engineered dataset back to the SQL Server database.
